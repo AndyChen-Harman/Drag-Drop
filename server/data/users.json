@@ -1,0 +1,22 @@
+{
+  "1": {
+    "todo": "Sleep",
+    "process": "Cook",
+    "done": "Work"
+  },
+  "2": {
+    "todo": "Study",
+    "process": "Clean bedroom",
+    "done": "Wake up"
+  },
+  "3": {
+    "todo": "Go to gym",
+    "process": "Grocery",
+    "done": "Go to school"
+  },
+  "4": {
+    "todo": "Set up laptop",
+    "process": "Take a break",
+    "done": "Working"
+  }
+}
